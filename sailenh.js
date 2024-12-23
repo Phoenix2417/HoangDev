@@ -1,4 +1,4 @@
-let urls = require('./../../data-hoang/datajson/vdgai.json')
+let urls = require('./../../phoenix/datajson/vdgai.json')
 
 const axios = require("axios");
 const fs = require("fs");
