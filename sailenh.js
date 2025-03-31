@@ -1,4 +1,4 @@
-let urls = require('/home/container/phoenix/datajson/vdgai.json')
+let urls = require('/home/container/phoenix/data/vdgai.json')
 
 const axios = require("axios");
 const fs = require("fs");
